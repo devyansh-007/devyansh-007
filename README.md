@@ -75,6 +75,6 @@
 
 ### 🚀 Let's Build Something Awesome Together!
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;1400%2B+DSA+Problems+Solved;React+%7C+Next.js+%7C+MongoDB&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;1500%2B+DSA+Problems+Solved;React+%7C+Next.js+%7C+MongoDB&center=true&width=500&height=50" />
 </p>
 
