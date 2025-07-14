@@ -12,7 +12,7 @@
 - 🎓 Final Year B.Tech student in **Computer Science at Delhi Technological University (DTU)**
 - 💼 **SDE Intern @ NIC** — Migrated legacy Elastic APIs to FastAPI, revamped PostgreSQL models, implemented role-based access
 - 🧠 Solved **1500+ DSA problems** across Codeforces, Leetcode, CodeChef
-- 🧪 Winner of **Smart India Hackathon** | **Global Rank 17** in CodeChef Starters
+- 🧪 **Smart India Hackathon** | **Global Rank 17** in CodeChef Starters
 - 🧑‍🏫 Built **ConversoAI** – an AI-powered voice tutoring LMS with Next.js, Stripe, Supabase
 - 📊 Built **FinFlow** – a real-time finance dashboard using TypeScript, Appwrite, Chart.js
 - 💬 I love building real-world products, system design, and solving algorithmic challenges
