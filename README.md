@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **devyanshsharma79@gmail.com**
+- 📫 How to reach me **sdevyanshh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cKf-9rNvml7L6OJbIEpyJpZDWM08qsTP/view?usp=sharing](https://drive.google.com/file/d/1cKf-9rNvml7L6OJbIEpyJpZDWM08qsTP/view?usp=sharing)
 
@@ -27,7 +27,7 @@
 <a href="https://medium.com/https://www.linkedin.com/in/devyansh-sharma-aa2a95254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://www.linkedin.com/in/devyansh-sharma-aa2a95254/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/rragnarrr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rragnarrr" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/bilbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/bilbo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/bilbobaggin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bilbobaggin/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/BilboBaggin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bilbobaggin/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/devyanshstw2b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/devyanshstw2b/" height="30" width="40" /></a>
 </p>
 
