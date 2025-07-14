@@ -15,25 +15,37 @@
 - 📄 Here’s [**My Resume**](https://drive.google.com/file/d/1cKf-9rNvml7L6OJbIEpyJpZDWM08qsTP/view?usp=sharing)  
 - ✉️ Reach me at **sdevyanshh@gmail.com**  
 - ⚡ Fun Fact: I’ve solved **1400+ DSA problems** 🔥
-
 ---
 
-### 🌐 Connect with Me
+### 🤝 Connect with Me
+
 <p align="center">
+  <a href="mailto:sdevyanshh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/devyansh-sharma-aa2a95254/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://codeforces.com/profile/Bilbo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40" alt="Codeforces" />
-  </a>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://www.codechef.com/users/rragnarrr" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" height="40" alt="CodeChef" />
-  </a>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/BilboBaggin/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode" />
-  </a>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" />
+  </a>&nbsp;&nbsp;
+
   <a href="https://www.geeksforgeeks.org/user/devyanshstw2b/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GFG" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-14B968?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://drive.google.com/file/d/1iLg7Q5crbSHiiwhgb2_rvv_NZLoPLvUq/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
 
